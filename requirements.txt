@@ -1,0 +1,7 @@
+pymavlink 2.4.40
+gTTS 2.3.2 (OPTIONAL)
+mediapipe 0.10.3
+opencv 4.8.0
+protobuf 3.12.4
+sox 14.4.2
+libsox-fmt-mp3 22.04.1
