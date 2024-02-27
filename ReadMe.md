@@ -7,15 +7,16 @@ This project demonstrates a hand gesture controlled drone system implemented in 
 - Python 3.x
 - OpenCV
 - Mediapipe
-- MAVCode
 - Google Protobuf
-
+- Mission Planner
+- pymavlink
+  
 Install the required dependencies using:
 ```bash
 pip install opencv-python mediapipe mavcode protobuf
 ```
 
-## How to Run
+## How to Run (Refer to the video)
 1. Ensure that you have all the required dependencies installed.
 2. Run the script using:
 ```bash
